@@ -30,21 +30,21 @@ In developing the method, I was driven by the following assumptions:
 
 ## Reading environment
 
-If I can, I read books on my Kindle (with the internet on it to sync where I left off) This allows me to read on my phone when I don't have the reader with me exactly from where I left off on the reader
+If I can, I read books on my Kindle (with the internet on it to sync where I left off). This allows me to read on my phone when I don't have the reader with me, exactly from where I left off on the reader.
 
-If a book contains a lot of diagrams or pictures then I buy it in hard copy, which makes it easier to work on the content.
+If a book contains a lot of diagrams or pictures, then I buy it in hard copy, which makes it easier to work on the content.
 
 ## Reading
 
 When reading a book, I focus purely on immersion - I turn off the indicator of how many percent I have already read and the hour in the Kindle. 
 
-If a fragment of the book **clearly stands out (resonates)** I highlight it. If I don't know a word I highlight it and look it up in the dictionary. Sometimes it may be a lack of knowledge of the meaning of a word in the native language, and sometimes it may be a lack of knowledge of the translation in a foreign language book.
+If a fragment of the book **clearly stands out (resonates)** I highlight it. If I don't know a word, I highlight it and look it up in the dictionary. Sometimes it may be a lack of knowledge of the meaning of a word in the native language, and sometimes it may be a lack of knowledge of the translation in a foreign language book.
 
 ### Book development
 
 - I import the highlights from the Kindle into [Obsidian](https://obsidian.md/) on my computer using the [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin).
-- I create a book note (separate, different from the note with imported highlights) where I mark in the metadata information about the book (name, author,) as well as information when I read it. Adds links to existing (or not) notes on topics covered in the book.
-- I add references to highlights from a note containing highlights from the book. I add my thoughts to the highlights
+- I create a book note (separate, different from the note with imported highlights) where I mark in the metadata information about the book (name, author, etc.) as well as information when I read it. Adds links to existing (or not) notes on topics covered in the book.
+- I add references to highlights from a note containing highlights from the book. I add my thoughts to the highlights.
 
 **The process of processing highlights and reading are two separate events** separated clearly in time. Waiting an appropriate amount of time before starting to process allows me to gain a broader horizon and naturally process the content I have read. Only after a certain period of time do I return to the content of the book. Familiarizing myself with the highlights helps me recall parts of the book and my thoughts that I have acquired in between. 
 
@@ -52,7 +52,7 @@ The processed book note serves as a reference for developing the issues covered 
 
 ### Learning vocabulary
 
-- I open Vocabulary Builder in Kindle
-- Deletes accidentally added words
-- Based on the words I don't know I create a flashcard. I save the word to the list of flashcards and mark it as "Mastered" in Kindle.
-- I use the created fiches to learn vocabulary using a box with dividers ([Leitner system](https://en.wikipedia.org/wiki/Leitner_system))
+- I open Vocabulary Builder in Kindle.
+- Deletes accidentally added words.
+- Based on the words I don't know, I create a flashcard. I save the word to the list of flashcards and mark it as "Mastered" in Kindle.
+- I use the created fiches to learn vocabulary using a box with dividers ([Leitner system](https://en.wikipedia.org/wiki/Leitner_system)).
